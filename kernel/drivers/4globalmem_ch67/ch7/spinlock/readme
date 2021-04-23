@@ -1,0 +1,6 @@
+insmod  spinlocktest.ko
+
+gcc main.c -o a
+gcc main.c -o b
+./a
+./b

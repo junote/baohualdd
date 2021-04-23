@@ -1,0 +1,1 @@
+sudo insmod book.ko book_name="mybook" book_num=200
