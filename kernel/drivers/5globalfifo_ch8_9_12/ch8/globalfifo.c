@@ -252,5 +252,5 @@ static void __exit globalfifo_exit(void)
 }
 module_exit(globalfifo_exit);
 
-MODULE_AUTHOR("Barry Song <baohua@kernel.org>");
+MODULE_AUTHOR("b <b@a.com>");
 MODULE_LICENSE("GPL v2");

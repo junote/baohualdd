@@ -29,7 +29,7 @@ static void __exit book_exit(void)
 }
 module_exit(book_exit);
 
-MODULE_AUTHOR("Barry Song <baohua@kernel.org>");
+MODULE_AUTHOR("b <b@a.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("A simple Module for testing module params");
 MODULE_VERSION("V1.0");

@@ -199,5 +199,5 @@ static void __exit globalmem_exit(void)
 }
 module_exit(globalmem_exit);
 
-MODULE_AUTHOR("Barry Song <baohua@kernel.org>");
+MODULE_AUTHOR("b <b@a.com>");
 MODULE_LICENSE("GPL v2");

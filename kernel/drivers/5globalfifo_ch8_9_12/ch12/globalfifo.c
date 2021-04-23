@@ -267,5 +267,5 @@ static struct platform_driver globalfifo_driver = {
 
 module_platform_driver(globalfifo_driver);
 
-MODULE_AUTHOR("Barry Song <baohua@kernel.org>");
+MODULE_AUTHOR("b <b@a.com>");
 MODULE_LICENSE("GPL v2");

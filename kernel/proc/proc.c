@@ -90,6 +90,6 @@ static __exit void test_proc_cleanup(void)
 }
 module_exit(test_proc_cleanup);
 
-MODULE_AUTHOR("Barry Song <baohua@kernel.org>");
+MODULE_AUTHOR("b <b@a.com>");
 MODULE_DESCRIPTION("proc exmaple");
 MODULE_LICENSE("GPL v2");

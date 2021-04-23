@@ -241,5 +241,5 @@ static void vmem_disk_exit(void)
 }
 module_exit(vmem_disk_exit);
 
-MODULE_AUTHOR("Barry Song <baohua@kernel.org>");
+MODULE_AUTHOR("b <b@a.com>");
 MODULE_LICENSE("GPLv2");
